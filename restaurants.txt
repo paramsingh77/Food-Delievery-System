@@ -1,0 +1,16 @@
+3
+1 Pizza Palace
+3
+Coke 2.0
+Fries 3.0
+Pizza 10.0
+2 Burger Shack
+2
+Burger 5.0
+Fries 2.5
+3 Sushi Express
+4
+Sushi 8.0
+Tempura 6.0
+Miso Soup 2.5
+Green Tea Ice Cream 4.0
